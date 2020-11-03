@@ -13,6 +13,7 @@
 - Attend workshops on Code Reviews and Domain Model Diagramming.
 - Attend a process workshops to focus on your my developer process.
 - Daily Reading - makers suggested articles, blogs etc.
+- Start to make progress on understanding doubles, mocks,
 
 ## Evidence:
 
@@ -20,18 +21,18 @@
 
 ## Daily Goals:
 ### Monday:
-- Goal: Review Week1 TDD process & Testing behaviour rather than state
-- Plan: Work through the [practical](https://github.com/makersacademy/skills-workshops/blob/master/practicals/testing/behaviour_not_state.md)
-- Evidence: Check in with peer, AWS.
+- Goal: Review Week1 TDD process with Bank account & work with pair partner on OysterCard
+- Plan: Work through user story from [Coach](https://drive.google.com/file/d/1k8wXxs3j6LS_OLykFad0jd9vDLQOxac_/view)
+- Evidence: Feedback from AWS & Bank Account [repo](https://github.com/TamMelPer/bank_account)
 
 ### Tuesday:
-- Goal:
-- Plan: Attend diagramming workshop...
-- Evidence:
+- Goal: Plan before doing! Understand Encapsulation & Cohesion. Pair Program starting with Step 8.
+- Plan: Attend diagramming workshop and Work through the [Practical](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md)
+- Evidence: Feedback from mentor & Secret Diary [repo](https://github.com/TamMelPer/SecretDiary)
 
 ### Wednesday:
-- Goal:
-- Plan:
+- Goal: Start to understand doubles and mocks. Pair Program starting with Step 12.
+- Plan: Work through the [Week 2 practical](Plan: Complete week 2 practical, Testing OO relationships using Mocking.)
 - Evidence:
 
 ### Thursday:
@@ -42,4 +43,4 @@
 ### Friday:
 - Goal:
 - Plan:
-- Evidence: 
+- Evidence:
