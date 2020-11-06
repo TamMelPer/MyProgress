@@ -15,15 +15,13 @@
 - Daily Reading - makers suggested articles, blogs etc.
 - Start to make progress on understanding doubles, mocks,
 
-## Evidence:
-
 
 
 ## Daily Goals:
 ### Monday:
 - Goal: Review Week1 TDD process with Bank account & work with pair partner on OysterCard
 - Plan: Work through user story from [Coach](https://drive.google.com/file/d/1k8wXxs3j6LS_OLykFad0jd9vDLQOxac_/view)
-- Evidence: Feedback from AWS & Bank Account [repo](https://github.com/TamMelPer/bank_account)
+- Evidence: Feedback from AWS, coach & Bank Account [repo](https://github.com/TamMelPer/bank_account)
 
 ### Tuesday:
 - Goal: Plan before doing! Understand Encapsulation & Cohesion. Pair Program starting with Step 8.
@@ -32,15 +30,13 @@
 
 ### Wednesday:
 - Goal: Start to understand doubles and mocks. Pair Program starting with Step 12.
-- Plan: Work through the [Week 2 practical](Plan: Complete week 2 practical, Testing OO relationships using Mocking.)
-- Evidence:
+- Plan: Work through the [Week 2 practical](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/testing_relationships.md)
+- Evidence: Completed practical above. [repo](https://github.com/TamMelPer/testing_relationships_between_classes)
 
 ### Thursday:
-- Goal:
-- Plan: Attend my first process workshop 12-1
-- Evidence:
+- Goal: Talk to coach about Airport weekend challenge. Pair Program starting with Step 13
 
 ### Friday:
-- Goal:
-- Plan:
-- Evidence:
+- Goal: Practise mocking
+- Plan: Mocking2 [Workshop](https://github.com/makersacademy/skills-workshops/blob/master/week-2/mocking_2/README.md)
+- Evidence: My [repo](https://github.com/TamMelPer/Mocking2)
