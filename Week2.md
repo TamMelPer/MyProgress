@@ -11,7 +11,6 @@
 ## Plans:
 - Pair on Oyster Card challenge with a different person for three hours every day.
 - Attend workshops on Code Reviews and Domain Model Diagramming.
-- Attend a process workshops to focus on your my developer process.
 - Daily Reading - makers suggested articles, blogs etc.
 - Start to make progress on understanding doubles, mocks,
 
@@ -40,3 +39,15 @@
 - Goal: Practise mocking
 - Plan: Mocking2 [Workshop](https://github.com/makersacademy/skills-workshops/blob/master/week-2/mocking_2/README.md)
 - Evidence: My [repo](https://github.com/TamMelPer/Mocking2)
+
+### Weekend Challenge:
+- Take Away challenge - [repo](https://github.com/TamMelPer/takeaway-challenge)
+"DON'T GET IT PERFECT, JUST GET IT DONE"
+
+Probably spent about 16 hours on this challenge. Started out by writing out a plan with classes i would need, methods and variables i would use, but as it got more complex and as more time went by without any code being written, I started to get anxious and looked at the code from about 2-3 past Makers' students.
+
+I'm not confident that my Rspec actually tests what I want it to so will look for some coach feedback on this.
+
+I made good progress with Twilio but was pretty exhausted by the time it came to writing out the code so I took it from ALM. I haven't been able to figure out how to write the Rspec for that method (place_order) so will ask a coach about this as well.
+
+Feature tests work!! and it was exciting to get the text message :)
