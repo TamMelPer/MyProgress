@@ -16,19 +16,25 @@
 ### Monday
 - Code Review
 - Read [Illustrated intro to Databases](https://illustrated.dev/databases)
-- Pair Programming
-- Process workshop?
+- Pair Programming with Annabel to Step 5
+- Didn't attend the process workshop - will aim for next week.
 
 ### Tuesday
-- Get feedback from coach
-- Complete practical on SQL Zoo
+- Get feedback from coach Eoin about testing in RPS
+- Researched RESTful APIs, RESTful routes to begin to get an understanding.
+- Worked through practical on SQL Zoo
+- Pair Programming with ALM to Step 10
 
 ### Wednesday
 - Workshop
-- Pair Programming
+- Work through practical on Class methods and Instance Methods
+- Start practical on Counter Sinatra web app
+- Pair Programming with Francesco to Step 11
 
 ### Thursday
-- Complete practicals on methods and entity relationships
+- Work through practical on entity relationships
+- Continue practical on Counter Sinatra web app
+- Pair Programming with Symion to Step
 
 ### Friday
 - Complete practical on Counter app
