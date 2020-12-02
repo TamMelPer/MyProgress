@@ -34,7 +34,9 @@
 ### Thursday
 - Work through practical on entity relationships
 - Continue practical on Counter Sinatra web app
-- Pair Programming with Symion to Step
+- Pair Programming with Symion to Step 13
 
 ### Friday
 - Complete practical on Counter app
+- Work through SQL murder mystery
+- Pair Programming with Georgie
